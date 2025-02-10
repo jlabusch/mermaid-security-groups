@@ -1,4 +1,3 @@
-const { fromSSO } = require('@aws-sdk/credential-providers')
 const { EC2Client, DescribeSecurityGroupsCommand } = require('@aws-sdk/client-ec2')
 
 function parse_argv() {
