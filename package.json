@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-ec2": "^3.744.0",
+    "@aws-sdk/credential-providers": "^3.744.0"
+  }
+}
